@@ -50,7 +50,7 @@
  <a href="https://www.linkedin.com/in/renzo-cannobbio-05551099/" target="blank">
   <img align="center" alt="gabe's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
-  -->
+
   <br/>
 
 
