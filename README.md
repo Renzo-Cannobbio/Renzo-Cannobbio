@@ -42,37 +42,6 @@
   <br/>
   <br/>
   
-## Some project
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td>Projeto</td>
-      <td>Seguimento</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> <a href="https://github.com/gabe-martins/Python-Data-Visualization/blob/main/ECommerce/E_Commerce.ipynb"
-        rel="noopener noreferrer">E-Commerce Project</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/Data%20Science-Python-blue" alt="Data Science"> 
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gabe-martins/Python-Data-Visualization/blob/main/HeartAttack/HeartAttackPrediction.ipynb"
-          rel="noopener noreferrer">Heart Attack Prediction</a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Machine%20Learning-Python-blue" alt="Machine Learning">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://gleear.com.br/"
-          rel="noopener noreferrer">Gleear</a>
-      </td>
-    
 
 <div align="center">
   <h3 align="center">Connect with me 🤝</h3> 
