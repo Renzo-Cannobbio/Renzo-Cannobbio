@@ -72,39 +72,16 @@
         <a href="https://gleear.com.br/"
           rel="noopener noreferrer">Gleear</a>
       </td>
-      <td>
-        <img src="https://img.shields.io/badge/Mobile%20App-JavaScript-yellow" alt="Mobile App">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gabe-martins/Python-Web-Scraping/blob/main/app/weather/climaTempo.ipynb"
-          rel="noopener noreferrer">Clima Tempo</a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Web%20Scraping-Python-blue" alt="Web Scraping">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+    
 
 <div align="center">
   <h3 align="center">Connect with me 🤝</h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/gabriel-martins-b22648129/" target="blank">
+ <a href="https://www.linkedin.com/in/renzo-cannobbio-05551099/" target="blank">
   <img align="center" alt="gabe's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/gabe_a_martinz/" target="blank">
-  <img align="center" alt="gabe's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/gabe_a_martinz" target="blank">
-  <img align="center" alt="gabe's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
- <!--<a href="https://medium.com/@gaberana2107" target="blank">
-  <img align="center" alt="gabe's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a>  -->
+  -->
   <br/>
 
 
